@@ -1,0 +1,19 @@
+Basics  of C programming  for IoT.
+
+First Part (The Header File);
+   
+  #include<stdio.h>
+
+Second Part (where our actual code goes)
+    
+  int main()
+            {
+              our actual code goes there.
+            }
+
+Third Part (the int keyword indicate that the function main will return an integer)
+
+  return 0;
+
+We can always end the line with a semicolon;
+Such that the compilers knows that the new statement is started.
